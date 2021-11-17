@@ -1,7 +1,7 @@
 ![Robert Gordon University](rgu.png)
 
 **About**
-- Studying in 3rd Year of Computer Science
+- Studying my 3rd Year of Computer Science
 - Full-stack software development
 
 **Languages & Tools**
