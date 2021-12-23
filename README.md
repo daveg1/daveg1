@@ -10,4 +10,4 @@
 - Android (Java), Qt + QML
 
 **Portfolio**
-- View my work timeline at https://rigbone1.github.io/
+- View my work timeline at https://daveg1.github.io/
