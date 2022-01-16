@@ -1,13 +1,15 @@
 ![Robert Gordon University](rgu.png)
 
 **About**
-- Studying my 3rd Year of Computer Science
-- Full-stack software development
+- 3rd year Computer Science (BSc)
+- Focused Software development
+  - Love web development
 
-**Languages & Tools**
-- HTML, CSS, JavaScript, NodeJS
-- MongoDB
-- Android (Java), Qt + QML
+**What I use:**
+- JavaScript
+- Node + npm
+- MongoDB + Mongoose
 
-**Portfolio**
-- View my work timeline at https://daveg1.github.io/
+**What I'm learning:** TypeScript, Vue.js, Webpack
+
+**Portfolio**: https://daveg1.github.io/
