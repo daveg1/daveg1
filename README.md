@@ -2,8 +2,7 @@
 
 **About**
 - 3rd year Computer Science (BSc)
-- Focused Software development
-  - Love web development
+- Focused on web development
 
 **What I use:**
 - JavaScript
