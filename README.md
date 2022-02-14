@@ -1,14 +1,11 @@
-![Robert Gordon University](rgu.png)
-
 **About**
-- 3rd year Computer Science (BSc)
+- Computer Science student at [RGU](https://rgu.ac.uk/)
 - Focused on web development
 
-**What I use:**
+**I like using**
 - JavaScript
-- Node + npm
-- MongoDB + Mongoose
+- Tailwind CSS
+- Web components & DOM APIs
 
-**What I'm learning:** TypeScript, Vue.js, Webpack
-
-**Portfolio**: https://daveg1.github.io/
+**Learning** Vue.js <br>
+**Personal site** @ https://daveg1.github.io/
