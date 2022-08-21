@@ -1,11 +1,16 @@
 **About**
 - Computer Science student at [RGU](https://rgu.ac.uk/)
-- Focused on frontend development
+- Focused on fullstack development
 
-**I like using**
-- JavaScript
+**I Like Using**
+- TypeScript
 - Tailwind CSS
-- Web components & DOM APIs
+- Native Web APIs
 
-**Learning** Angular <br>
-**Personal site** @ https://daveg1.github.io/
+**I Have Experience In**
+- Angular 14
+- Sass
+- NodeJs
+- C#/Java
+
+**Personal site** » https://daveg1.github.io/
