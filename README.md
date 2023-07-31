@@ -1,6 +1,5 @@
 ### About
-- Honours year computer science student at [RGU](https://rgu.ac.uk/)
-- Focused on fullstack web development
+- Software Engineer @ [Aize](https://www.aize.io/)
 - Personal website » https://daveg1.github.io/
 
 ### I Like Using
