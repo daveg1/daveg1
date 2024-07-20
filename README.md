@@ -1,7 +1,7 @@
 ### About
 
-- See my projects at » https://daveg1.github.io/
+See my projects » https://daveg1.github.io/
 
-### I Like Using
+### The Tools of Kings
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,tailwind,sass,nodejs,mongo)](https://daveg1.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,php,jquery)](https://daveg1.github.io/)
