@@ -2,6 +2,6 @@
 
 See my projects » https://daveg1.github.io/
 
-### The Tools of Kings
+### Fave tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,php,jquery)](https://daveg1.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,nodejs,mongodb)](https://daveg1.github.io/)
