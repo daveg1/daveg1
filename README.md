@@ -1,7 +1,11 @@
 ### About
 
-See my projects » https://daveg1.github.io/
+Est. 2021
 
-### Fave tools
+Some stuff I made:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,nodejs,mongodb)](https://daveg1.github.io/)
+- Karting Leaderboard - https://fastlane-leaderboard.netlify.app/
+- Geo-visualisation of Historical Battles - https://thebattlemap.netlify.app/
+- Gym tracker Mobile App - https://daveg1-gym.netlify.app/
+- 3D game to shoot cows falling from the sky - https://github.com/daveg1/cattle-blaster
+- Mixpanel Chrome Extension - https://chromewebstore.google.com/detail/mixpanel-inspector/lakmmboobmemhnemncahllomedihclif?hl=en-GB
